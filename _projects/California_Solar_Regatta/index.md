@@ -7,5 +7,5 @@ skills:
 - Carbon fiber and fiberglass layup
 - hydrodynamic design
 - BLDC motor control
-main-image: /project.webp 
+main-image: /boat.jpg 
 ---
