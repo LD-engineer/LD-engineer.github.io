@@ -20,11 +20,11 @@ A scale model of the cart was also designed and fabricated, with the goal of val
   <tr>
     <td align="center">
       <img src="cart_render.png" width="400"><br>
-      <b>Before</b>
+      <b>cart render</b>
     </td>
     <td align="center">
       <img src="blowup.PNG" width="400"><br>
-      <b>After</b>
+      <b>axle</b>
     </td>
   </tr>
 </table>
