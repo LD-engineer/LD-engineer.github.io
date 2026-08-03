@@ -7,5 +7,5 @@ skills:
  - Forward and inverse kinematics of end effectors
  - Product of Exponentials (POE) convention 
 
-main-image: /project2.jpg
+main-image: /liv1.jpg
 ---
