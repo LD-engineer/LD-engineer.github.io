@@ -37,6 +37,7 @@ The bulk of the design was done in solidworks, with the control system design an
 <div align="center">
   <img src="control_diagram.PNG" width="80%">
 </div>
+
 ## Results of the project
 Independent control of 4 Mecanum wheels allowed translation and rotation in any direction, simplifying the path planning requirements.
 <br>
