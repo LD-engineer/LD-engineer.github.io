@@ -21,7 +21,7 @@ A scale model of the cart was also designed and fabricated, with the goal of val
 ## Methods used
 The bulk of the design was done in solidworks, with the control system design and validation done using MATLAB simulink. We set specific design goals for this project: 
 
-{% include image-gallery.html images="Wiring_diagram.PNG" height="250" %}
+{% include image-gallery.html images="Wiring_diagram.PNG" height="400" %}
 {% include image-gallery.html images="control_diagram.PNG" height="250" %}
 
 ## Results of the project
@@ -30,16 +30,6 @@ Independent control of 4 Mecanum wheels allowed translation and rotation in any 
 Control system was tuned to follow desired velocity trajectories with very low error.
 <br>
 Mechanical design was capable of extreme overloading of up to 400lbs, with a stress factor of safety of more than 2
-<table>
-  <tr>
-    <td align="center">
-      <img src="./Back_axle_FEA.PNG" width="400"><br>
-      <b>cart render</b>
-    </td>
-    <td align="center">
-      <img src="./blowup.PNG" width="400"><br>
-      <b>axle</b>
-    </td>
-  </tr>
-</table>
+{% include image-gallery.html images="blowup.PNG, Back_axle_FEA.PNG" height="250" %}
+
 
