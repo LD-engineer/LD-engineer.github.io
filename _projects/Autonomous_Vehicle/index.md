@@ -19,7 +19,7 @@ A scale model of the cart was also designed and fabricated, with the goal of val
 <table>
   <tr>
     <td align="center">
-      <img src="Autonomous_Vehicle/cart_render.png" width="400"><br>
+      <img src="cart_render.png" width="400"><br>
       <b>cart render</b>
     </td>
     <td align="center">
