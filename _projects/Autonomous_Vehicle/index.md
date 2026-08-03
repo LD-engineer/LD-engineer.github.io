@@ -32,10 +32,10 @@ A scale model of the cart was also designed and fabricated, with the goal of val
 ## Methods used
 The bulk of the design was done in solidworks, with the control system design and validation done using MATLAB simulink. We set specific design goals for this project: 
 <div align="center">
-  <img src="Wiring_diagram.PNG" width="80%">
+  <img src="./Wiring_diagram.PNG" width="80%">
 </div>
 <div align="center">
-  <img src="control_diagram.PNG" width="80%">
+  <img src="./control_diagram.PNG" width="80%">
 </div>
 
 ## Results of the project
