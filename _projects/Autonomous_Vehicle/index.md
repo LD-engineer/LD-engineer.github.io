@@ -28,9 +28,15 @@ A scale model of the cart was also designed and fabricated, with the goal of val
     </td>
   </tr>
 </table>
+
 ## Methods used
 The bulk of the design was done in solidworks, with the control system design and validation done using MATLAB simulink. We set specific design goals for this project: 
-
+<div align="center">
+  <img src="Wiring_diagram.PNG" width="80%">
+</div>
+<div align="center">
+  <img src="control_diagram.PNG" width="80%">
+</div>
 ## Results of the project
 Independent control of 4 Mecanum wheels allowed translation and rotation in any direction, simplifying the path planning requirements.
 <br>
