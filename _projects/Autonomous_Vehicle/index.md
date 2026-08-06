@@ -19,7 +19,7 @@ A scale model of the cart was also designed and fabricated, with the goal of val
 {% include image-gallery.html images="cart_render.png, blowup.PNG" height="250" %}
 
 ## Methods used
-The bulk of the design was done in solidworks, with the control system design and validation done using MATLAB simulink. We set specific design goals for this project: 
+The bulk of the design was done in solidworks, with the control system design and validation done using MATLAB simulink. We set specific design goals for this project: THe acceleration and achievable speeds should match with an average human walking speed, and its carrying capacity should reach atleast 175 pounds .
 
 {% include image-gallery.html images="Wiring_diagram.PNG" height="400" %}
 {% include image-gallery.html images="control_diagram.PNG" height="250" %}
