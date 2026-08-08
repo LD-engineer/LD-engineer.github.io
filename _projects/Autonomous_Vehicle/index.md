@@ -30,6 +30,6 @@ Independent control of 4 Mecanum wheels allowed translation and rotation in any 
 Control system was tuned to follow desired velocity trajectories with very low error.
 <br>
 Mechanical design was capable of extreme overloading of up to 400lbs, with a stress factor of safety of more than 2
-{% include image-gallery.html images="blowup.PNG, Back_axle_FEA.PNG" height="250" %}
+{% include image-gallery.html images="graph.PNG, Back_axle_FEA.PNG" height="250" %}
 
 
